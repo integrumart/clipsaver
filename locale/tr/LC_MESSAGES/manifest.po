@@ -1,6 +1,0 @@
-# Automatic Clipboard Saver translation file
-msgid "Automatic Clipboard Saver"
-msgstr "Otomatik Pano Kaydedici"
-
-msgid "Automatically saves every copied text to the Documents folder."
-msgstr "Kopyalanan her metni otomatik olarak Belgelerim klasörüne kaydeder."
